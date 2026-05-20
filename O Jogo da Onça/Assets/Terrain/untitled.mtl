@@ -1,0 +1,552 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl palette
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A2-0.png
+
+newmtl palette.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A3-0.png
+
+newmtl palette.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A4-0.png
+
+newmtl palette.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A5-0.png
+
+newmtl palette.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab B1-0.png
+
+newmtl palette.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab B2-0.png
+
+newmtl palette.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab B3-0.png
+
+newmtl palette.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab B4-0.png
+
+newmtl palette.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab B5-0.png
+
+newmtl palette.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab C1-0.png
+
+newmtl palette.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab C2-0.png
+
+newmtl palette.012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab C3-0.png
+
+newmtl palette.013
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab C4-0.png
+
+newmtl palette.014
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab C5-0.png
+
+newmtl palette.015
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab D1-0.png
+
+newmtl palette.016
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab D2-0.png
+
+newmtl palette.017
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab D3-0.png
+
+newmtl palette.018
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab D4-0.png
+
+newmtl palette.019
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab D5-0.png
+
+newmtl palette.020
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab E1-0.png
+
+newmtl palette.021
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab E2-0.png
+
+newmtl palette.022
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab E3-0.png
+
+newmtl palette.023
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab E4-0.png
+
+newmtl palette.024
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab E5-0.png
+
+newmtl palette.026
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.027
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.028
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.029
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.030
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.031
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.032
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.033
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.034
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.035
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.036
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.037
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.038
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.039
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.040
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.041
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.042
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.043
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.044
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.045
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.046
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.047
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.048
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.049
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.050
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.051
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.052
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.053
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.054
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png
+
+newmtl palette.055
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tabuleiro_teste_1/tabuleiro teste 1/terreno/Tab A1-0.png

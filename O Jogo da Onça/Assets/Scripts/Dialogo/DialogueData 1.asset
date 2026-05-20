@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b23758b681fd6a54fbbb1decdaa87968, type: 3}
+  m_Name: DialogueData 1
+  m_EditorClassIdentifier: 
+  talkScript:
+  - name: ???
+    text: Bem-vindo caro jogador.
+  - name: ???
+    text: "Eu estive esperando por voc\xEA."
+  - name: ???
+    text: "Quem sou eu? Eu me chamo Japeus\xE1, mas bem isso n\xE3o importa no momento."
+  - name: "Japeus\xE1"
+    text: Que tal jogarmos um pouco.
+  - name: "Japeus\xE1"
+    text: "Vamos jogar o jogo da on\xE7a, eu controlo a on\xE7a e voc\xEA os cachorros."
+  - name: "Japeus\xE1"
+    text: "No canto superior direito da tela voc\xEA vai conseguir ver o livro de
+      regras, voc\xEA pode us\xE1-lo assim que a partida come\xE7ar."
+  - name: "Japeus\xE1"
+    text: Tente dar o seu melhor ok?
+  - name: "Japeus\xE1"
+    text: "Eu fa\xE7o o primeiro movimento."
+  talkScript2:
+  - name: "Japeus\xE1"
+    text: Hahahahahahaha...
+  - name: "Japeus\xE1"
+    text: "Parece que voc\xEA n\xE3o foi capais de me vencer."
+  - name: "Japeus\xE1"
+    text: "Mas isso j\xE1 era esperado"
+  - name: "Japeus\xE1"
+    text: E sabe qual o melhor de tudo?
+  - name: "Japeus\xE1"
+    text: "A partir de agora voc\xEA n\xE3o vai mais poder deixar de jogar."
+  - name: "Japeus\xE1"
+    text: "Est\xE1 confuso?"
+  - name: "Japeus\xE1"
+    text: "Bem, quando n\xF3s come\xE7amos a jogar sua alma ficou ligada ao jogo
+      como a minha est\xE1 a s\xE9culos."
+  - name: "Japeus\xE1"
+    text: "Cada pe\xE7a de cachorro \xE9 referente a um fragmento da sua alma e cada
+      partida que voc\xEA perder eu vou tomar uma pe\xE7a sua."
+  - name: "Japeus\xE1"
+    text: Levando assim um fragmento da sua alma.
+  - name: "Japeus\xE1"
+    text: "S\xF3 faltam 13 fragmentos agora, se eu fosse voc\xEA tomava mais cuidado."
+  talkScript3:
+  - name: "Japeus\xE1"
+    text: "Bem, meus parab\xE9ns, parece que voc\xEA conseguiu me vencer no nosso
+      primeiro confronto."
+  - name: "Japeus\xE1"
+    text: "Mas n\xE3o v\xE1 se achando muito ainda temos muitos embates pela frente."
+  - name: "Japeus\xE1"
+    text: "E te garanto que n\xE3o vai ficar nada f\xE1cil."
